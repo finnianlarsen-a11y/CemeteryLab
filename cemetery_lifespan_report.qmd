@@ -133,7 +133,7 @@ Finnian Jake Larsen\textsuperscript{1,*}
     \textbf{Methods:}
     Recorded available birth and death information from gravestones
     and classified selected characteristics using evidence visible on the
-    stones and in burial arrangements. [Go into much greater detail in the methods section]
+    stones and in burial arrangements. 
 
     \vspace{3pt}
 
@@ -184,7 +184,7 @@ Cemetery records provide individual birth and death dates that can be used to de
 
 # Hypotheses
 
-3. **Military service and lifespan:** I hypothesize that male records marked as military service will show shorter lifespans compared to records not marked for service because [Some buried service members will have died in combat, or have developed cancer, geriatric diseases, or other conditions that may have led to an early death.].
+3. **Military service and lifespan:** I hypothesize that male records marked as military service will show shorter lifespans compared to records not marked for service because Some buried service members will have died in combat, or have developed cancer, geriatric diseases, or other conditions that may have led to an early death.
 
 # Methods
 
@@ -192,28 +192,28 @@ Complete the prompts below. Replace bracketed text with details from the field v
 
 ## Field site and sampling
 
-- **Where did you go?** [Sunset Hill Semetary, Valdosta Georgia.]
-- **What date and time of day did you collect records?** [October 14th, from 2:15PM to 3:00PM..]
-- **What part of the cemetery did you sample?** [Samples were taken from around half of the semetary, surrounding the left most entrance.]
-- **How did you choose graves?** [Sampling was mostly systematic with a few graves being missed due to damage, or visibility issues.]
-- **How did you handle nearby graves and family plots?** [Most families were recorded all together. with a record kept of the relationship]
+- **Where did you go?** Sunset Hill Semetary, Valdosta Georgia.
+- **What date and time of day did you collect records?** October 14th, from 2:15PM to 3:00PM..
+- **What part of the cemetery did you sample?** Samples were taken from around half of the semetary, surrounding the left most entrance.
+- **How did you choose graves?** Sampling was mostly systematic with a few graves being missed due to damage, or visibility issues.
+- **How did you handle nearby graves and family plots?** Most families were recorded all together. with a record kept of the relationship
 
 ## Recorded information and variable definitions
 
-- **What information did you record from each marker?** [Any information that indicated marital status, family relationships, military status, gender,  or other status indicaters were included.]
-- **How was lifespan calculated?** [Life span was calculated from the difference between the date of death and the date of birth on the grave markers. Partial dates were not collected for the sample.]
-- **How did you determine marital status?** [Marital status was recorded through evidence of explicit markings and infered through connected grave markers.]
-- **How did you determine military service?** [Military status was determined through explicit markings and signs that stated military service and status, rank, or description of death.]
-- **How did you determine sex or gender?** [Most sexual identity was infered thruough family relationships, feminine names or specific indicators.]
-- **How were missing, illegible, or ambiguous records handled?** [Missing, illegible, or ambiguous records were not recorded for the dataset.]
+- **What information did you record from each marker?** Any information that indicated marital status, family relationships, military status, gender,  or other status indicaters were included.
+- **How was lifespan calculated?** Life span was calculated from the difference between the date of death and the date of birth on the grave markers. Partial dates were not collected for the sample.
+- **How did you determine marital status?** Marital status was recorded through evidence of explicit markings and infered through connected grave markers.
+- **How did you determine military service?** Military status was determined through explicit markings and signs that stated military service and status, rank, or description of death.
+- **How did you determine sex or gender?** Most sexual identity was infered thruough family relationships, feminine names or specific indicators.
+- **How were missing, illegible, or ambiguous records handled?** Missing, illegible, or ambiguous records were not recorded for the dataset.
 
 ## Dataset and analysis
 
-- **How many records were collected by you?** [n = 32]
-- **How many records were included in the final analysis?** [n = 753 ; This does not include tha graves missing partial information.]
-- **Were records aggregated with the class dataset?** [Yes, records were aggregated with the class dataset, and duplicate entries were rmoved from the sampling.]
-- **What summaries or plots were produced?** [Data recorded provided data and survivorship curves for the differneces in lifespan by gender, marital status, and male military service..]
-- **What are the limits of the sample?** [This sample was limited for a number of reasons. Firstly, markers that contained incomplete datasets were not included. Secondondly,  only males were able to be compared for the sample, as no women who served were found in the survey. Lastly, many graves were missed due to time constraints of the sampling.]
+- **How many records were collected by you?** n = 32
+- **How many records were included in the final analysis?** n = 753 ; This does not include tha graves missing partial information.
+- **Were records aggregated with the class dataset?** Yes, records were aggregated with the class dataset, and duplicate entries were rmoved from the sampling.
+- **What summaries or plots were produced?** Data recorded provided data and survivorship curves for the differneces in lifespan by gender, marital status, and male military service..
+- **What are the limits of the sample?** This sample was limited for a number of reasons. Firstly, markers that contained incomplete datasets were not included. Secondondly,  only males were able to be compared for the sample, as no women who served were found in the survey. Lastly, many graves were missed due to time constraints of the sampling.
 
 # Results
 
