@@ -102,13 +102,13 @@ csl: newphytologist.csl
 % Title and author line
 \noindent
 {\fontsize{23}{27}\selectfont
-\textbf{Lifespan is Effected by Military Status in Males Buried at the Sunset Hill Cemetery, Valdosta, Georgia}\par}
+\textbf{The effect male military service on lifespan for those Buried at the Sunset Hill Cemetery, Valdosta, Georgia}\par}
 
 \vspace{0.12in}
 
 \noindent
 {\small
-Brandon Thomas Hendrickson\textsuperscript{1,*}
+Finnian Jake Larsen\textsuperscript{1,*}
 }
 
 \vspace{0.08in}
@@ -162,7 +162,7 @@ Brandon Thomas Hendrickson\textsuperscript{1,*}
 
 \noindent
 {\scriptsize
-\textsuperscript{*}Correspondence: bhendrickson@valdosta.edu\\
+\textsuperscript{*}Correspondence: fjlarsen@valdosta.edu\\
 \textsuperscript{1}Department of Biology, Valdosta State University,
 Valdosta, Georgia, USA\\
 Ecology and Evolution, BIOL 3250, Section B
@@ -184,7 +184,7 @@ Cemetery records provide individual birth and death dates that can be used to de
 
 # Hypotheses
 
-3. **Military service and lifespan:** I hypothesize that male records marked as military service will show [greater / lower / similar] lifespan than records not marked for service because [brief rationale].
+3. **Military service and lifespan:** I hypothesize that male records marked as military service will show shorter lifespans compared to records not marked for service because [Some buried service members will have died in combat, or have developed cancer, geriatric diseases, or other conditions that may have led to an early death.].
 
 # Methods
 
@@ -192,42 +192,42 @@ Complete the prompts below. Replace bracketed text with details from the field v
 
 ## Field site and sampling
 
-- **Where did you go?** [Cemetery name, location, and any relevant site characteristics.]
-- **What date and time of day did you collect records?** [Date, start/end time, and weather or visibility conditions if relevant.]
-- **What part of the cemetery did you sample?** [Section, row, plot area, or a map-based description.]
-- **How did you choose graves?** [Describe whether sampling was systematic, opportunistic, or based on another rule.]
-- **How did you handle nearby graves and family plots?** [Explain whether neighboring graves were recorded to capture families, or whether sampling moved between plots to avoid over-representing one family.]
+- **Where did you go?** [Sunset Hill Semetary, Valdosta Georgia.]
+- **What date and time of day did you collect records?** [October 14th, from 2:15PM to 3:00PM..]
+- **What part of the cemetery did you sample?** [Samples were taken from around half of the semetary, surrounding the left most entrance.]
+- **How did you choose graves?** [Sampling was mostly systematic with a few graves being missed due to damage, or visibility issues.]
+- **How did you handle nearby graves and family plots?** [Most families were recorded all together. with a record kept of the relationship]
 
 ## Recorded information and variable definitions
 
-- **What information did you record from each marker?** [For example: name, birth date or year, death date or year, age at death, sex/gender as recorded or inferred, marriage indicator, military indicator, and inscription details.]
-- **How was lifespan calculated?** [State whether age was transcribed from the marker or calculated as death year minus birth year, and how partial dates were handled.]
-- **How did you determine marital status?** [Explain evidence such as “wife,” “husband,” spouse names, or paired markers. If a joint grave was used as evidence, state that this is an inference and describe the rule.]
-- **How did you determine military service?** [Describe explicit evidence such as service branch, rank, unit, or veteran symbols. Explain how uncertain cases were coded.]
-- **How did you determine sex or gender?** [Describe what was explicitly recorded and what, if anything, was inferred. Do not present an inference as a confirmed identity.]
-- **How were missing, illegible, or ambiguous records handled?** [State exclusion and coding rules.]
+- **What information did you record from each marker?** [Any information that indicated marital status, family relationships, military status, gender,  or other status indicaters were included.]
+- **How was lifespan calculated?** [Life span was calculated from the difference between the date of death and the date of birth on the grave markers. Partial dates were not collected for the sample.]
+- **How did you determine marital status?** [Marital status was recorded through evidence of explicit markings and infered through connected grave markers.]
+- **How did you determine military service?** [Military status was determined through explicit markings and signs that stated military service and status, rank, or description of death.]
+- **How did you determine sex or gender?** [Most sexual identity was infered thruough family relationships, feminine names or specific indicators.]
+- **How were missing, illegible, or ambiguous records handled?** [Missing, illegible, or ambiguous records were not recorded for the dataset.]
 
 ## Dataset and analysis
 
-- **How many records were collected by you?** [n = ]
-- **How many records were included in the final analysis?** [n = ; explain exclusions.]
-- **Were records aggregated with the class dataset?** [Yes / no. If yes, describe how duplicates and conflicting entries were checked.]
-- **What summaries or plots were produced?** [Describe group summaries and empirical survivorship curves, including how categories were defined.]
-- **What are the limits of the sample?** [Discuss marker preservation, incomplete dates, cemetery selection, sampling strategy, and any other relevant limitations.]
+- **How many records were collected by you?** [n = 32]
+- **How many records were included in the final analysis?** [n = 753 ; This does not include tha graves missing partial information.]
+- **Were records aggregated with the class dataset?** [Yes, records were aggregated with the class dataset, and duplicate entries were rmoved from the sampling.]
+- **What summaries or plots were produced?** [Data recorded provided data and survivorship curves for the differneces in lifespan by gender, marital status, and male military service..]
+- **What are the limits of the sample?** [This sample was limited for a number of reasons. Firstly, markers that contained incomplete datasets were not included. Secondondly,  only males were able to be compared for the sample, as no women who served were found in the survey. Lastly, many graves were missed due to time constraints of the sampling.]
 
 # Results
 
-The summary table in @fig-summary shows non-substantial differences in recorded lifespan by military status. Military Males had a mean lifespan of 63.8 years (SD = 20.4; n = 70), compared with 29.7 years (SD = 7.1; n = 3) for females. The marital-status breakdown is more tentative because each subgroup contains only one or two records. Among males, the two married individuals had a mean lifespan of 70.5 years (SD = 6.4), while the one unmarried individual lived 36 years. Among females, the one married individual lived 36 years, compared with a mean of 26.5 years (SD = 6.4) for the two unmarried individuals. These small subgroup sizes make the values descriptive; they do not support broad conclusions about sex or marital status.
+The summary table in @fig-summary shows non-substantial differences in recorded lifespan by military status. Military Males had a mean lifespan of 67.5 years (SD = 20.0; n = 70), compared with 66.0 years (SD = 7.1; n = 3) for non-serving males. The marital-status breakdown is more tentative because there is only a small subgroup of malles served in the military. Also, most of the men that had served did not pass away while serving in action. Because these caveats affect the data, and the dataset is limited, they do not support broad conclusions about the lifespan of those who serve in the military.
 
 ![Summary of lifespan by sex and by marrital status for each sex.](lifespan_tables/sex_military.png){#fig-summary width=90% fig-pos="t"}
 
-The sex-specific survivorship curves in @fig-sex show a different pattern: the plotted means are 61.1 years for males and 57.3 years for females. The male curve remains higher through much of the earlier and middle lifespan, while the female curve reaches the 50% survival point later. The curves are close and change relative position, so the figure suggests that the sex difference depends on which part of the lifespan distribution is considered. The median markers indicate where each group’s observed curve reaches 50% surviving; they are distinct from the mean values shown in the legend.
+The sex-specific survivorship curves in @fig-sex show a different pattern: the plotted means are 67.5 years for males who served and 66.0 years for those who had not. The survivorship curve indicates that the lifespan of males who served and those who hd not similarly follow the same trend throughout both lifespans. The median markers indicate where each group’s observed curve reaches 50% surviving; they are distinct from the mean values shown in the legend.
 
-![Survivorship curves by sex. The y-axis shows the percentage of the cemetery sample surviving to each lifespan. Dotted vertical lines mark the median lifespan for each sex, where the curve reaches 50%.](survivorship_curves/survivorship_military_males.png){#fig-sex width=70% fig-pos="t"}
+![Survivorship curves by military status. The y-axis shows the percentage of the cemetery sample surviving to each lifespan. Dotted vertical lines mark the median lifespan for both males who served and those that had not., where the curve reaches 50%.](survivorship_curves/survivorship_military_males.png){#fig-sex width=70% fig-pos="t"}
 
 # Discussion
 
-**Military Status and Effect on Lifespan** We did not find significant differences between military men and men not servicing in the military in respect to lifespan for our sample from the Sunset Hill cemetery in Valdosta, Georgia. Instead, we found, contrary to expectations of our hypothesis, that military men lived 2 years longer than non-military men. We believe this pattern can be explained in two ways; first, we did not get individuals that died in war buried at the Sunset Hill cemetery, as many of those invidiuals were buried in Arlington, and secondly, we anticipated that military men, after having made it thorugh war, would exhibit similar life history trends as those not having served. Because we did not capture the death of youth service members, we instead get a very similar life history curve between both groups. 
+**Military Status and Effect on Lifespan** We did not find significant differences between military men and men not servicing in the military in respect to lifespan for our sample from the Sunset Hill cemetery in Valdosta, Georgia. Instead, we found, contrary to expectations of our hypothesis, that military men lived 2 years longer than non-military men. We believe this pattern can be explained in two ways; first, we did not get many individuals that died in war buried at the Sunset Hill cemetery, as many of those invidiuals were buried in Arlington, and secondly, we anticipated that military men, after having made it thorugh war, would exhibit similar life history trends as those not having served. Because we did not capture the death of youth service members, we instead get a very similar life history curve between both groups. 
 However, we did hypothesize that men serving in the miliary may exhibit higher rates of cancer or geriatric diseases due to exposure to chemicals during basic training and service. While this could still be true, the life history table does not capture that effect. 
 
 ```{=latex}
